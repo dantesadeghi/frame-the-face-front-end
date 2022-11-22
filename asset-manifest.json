@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frame-the-face-front-end/static/css/main.a5e6e488.css",
+    "main.js": "/frame-the-face-front-end/static/js/main.449771bc.js",
+    "static/js/787.490c6c66.chunk.js": "/frame-the-face-front-end/static/js/787.490c6c66.chunk.js",
+    "index.html": "/frame-the-face-front-end/index.html",
+    "main.a5e6e488.css.map": "/frame-the-face-front-end/static/css/main.a5e6e488.css.map",
+    "main.449771bc.js.map": "/frame-the-face-front-end/static/js/main.449771bc.js.map",
+    "787.490c6c66.chunk.js.map": "/frame-the-face-front-end/static/js/787.490c6c66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5e6e488.css",
+    "static/js/main.449771bc.js"
+  ]
+}
