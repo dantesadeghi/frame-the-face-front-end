@@ -1,5 +1,7 @@
 # Frame-the-Face App
 
+My React.js application called Frame-the-Face. It features a sign-in page, a register page, and a homepage after logging in. On the homepage, the user is prompted to provide a url to an image that contains a face. This app uses a Face Detection model pulled from the Clarifai API to detect and draw boxes around the face in the provided image after the user clicks on the 'Detect' button or on the logo on the upper left side of the homepage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
